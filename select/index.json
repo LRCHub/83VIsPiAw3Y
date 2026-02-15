@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "STAND PROUD",
+  "base_artist": "橋本仁",
+  "createdAt": "2026-02-15T07:29:22.591051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STAND PROUD",
+      "artist": "JIN HASHIMOTO",
+      "has_synced": true,
+      "path": "select/01_STAND_PROUD_JIN_HASHIMOTO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stand Proud",
+      "artist": "JIN HASHIMOTO",
+      "has_synced": true,
+      "path": "select/02_Stand_Proud_JIN_HASHIMOTO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STAND PROUD",
+      "artist": "Hashimoto Jin",
+      "has_synced": true,
+      "path": "select/03_STAND_PROUD_Hashimoto_Jin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STAND PROUD Dramatic Ver.",
+      "artist": "JIN HASHIMOTO",
+      "has_synced": true,
+      "path": "select/04_STAND_PROUD_Dramatic_Ver._JIN_HASHIMOTO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STAND PROUD - ORIGINAL KARAOKE",
+      "artist": "JIN HASHIMOTO",
+      "has_synced": false,
+      "path": "select/05_STAND_PROUD_-_ORIGINAL_KARAOKE_JIN_HASHIMOTO.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stand Strong Stand Proud",
+      "artist": "Vice Squad",
+      "has_synced": false,
+      "path": "select/06_Stand_Strong_Stand_Proud_Vice_Squad.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STAND PROUD",
+      "artist": "Hashimoto Jin",
+      "has_synced": true,
+      "path": "select/07_STAND_PROUD_Hashimoto_Jin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STAND PROUD",
+      "artist": "Jin Hashimoto",
+      "has_synced": false,
+      "path": "select/08_STAND_PROUD_Jin_Hashimoto.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stand Proud",
+      "artist": "Jonathan Young feat. SixteenInMono & RichaadEB",
+      "has_synced": true,
+      "path": "select/09_Stand_Proud_Jonathan_Young_feat._SixteenInMono_&_RichaadEB.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stand Proud",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/10_Stand_Proud_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stand Proud (feat. RichaadEB & SixteenInMono)",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/11_Stand_Proud_(feat._RichaadEB_&_SixteenInMono)_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stand Proud (feat. Shana Halligan, Tahir Panton & Keznamdi)",
+      "artist": "Unified Highway, Shana Halligan, Keznamdi & Tahir Panton",
+      "has_synced": true,
+      "path": "select/12_Stand_Proud_(feat._Shana_Halligan,_Tahir_Panton_&_Keznamdi)_Unified_Highway,_Shana_Halligan,_Keznamdi_&_Tahir_Panton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stand Proud (feat. Shana Halligan, Tahir Panton & Keznamdi)",
+      "artist": "Unified Highway",
+      "has_synced": true,
+      "path": "select/13_Stand_Proud_(feat._Shana_Halligan,_Tahir_Panton_&_Keznamdi)_Unified_Highway.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stand Proud",
+      "artist": "Jonathan Young feat. RichaadEB & SixteenInMono",
+      "has_synced": true,
+      "path": "select/14_Stand_Proud_Jonathan_Young_feat._RichaadEB_&_SixteenInMono.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stand Proud",
+      "artist": "Jonathan Young, RichaadEB, SixteenInMono",
+      "has_synced": true,
+      "path": "select/15_Stand_Proud_Jonathan_Young,_RichaadEB,_SixteenInMono.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STAND PROUD",
+      "artist": "橋本仁",
+      "has_synced": false,
+      "path": "select/pl_01_STAND_PROUD_橋本仁.txt"
+    }
+  ]
+}
